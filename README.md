@@ -1,7 +1,16 @@
-### Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Gibran Dimasagung!
+
+## My GitHub Stats &#x1f4c8;
+
+<a href="https://github.com/gibrandev/gibrandev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalinpit&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/gibrandev/gibrandev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gibrandev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gibran Dimasagung's GitHub Stats" />
+</a>
 
 <!--
-**gibrandev/gibrandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**catalinpit/catalinpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
